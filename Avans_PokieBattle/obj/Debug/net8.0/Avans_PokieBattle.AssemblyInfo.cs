@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Avans_PokieBattle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb4eb9a3b1db7d716b67175c2c839a87c77283fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Avans_PokieBattle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Avans_PokieBattle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
