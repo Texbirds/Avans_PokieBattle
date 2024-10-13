@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kwint\\Desktop\\Code\\Avans_PokieBattle\\",
+  "WorkspaceRootPath": "C:\\dev\\Avans_PokieBattle\\Avans_PokieBattle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{311033C6-5000-4174-A770-197A1868A515}|Avans_PokieBattle\\Avans_PokieBattle.csproj|c:\\users\\kwint\\desktop\\code\\avans_pokiebattle\\avans_pokiebattle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{311033C6-5000-4174-A770-197A1868A515}|Avans_PokieBattle\\Avans_PokieBattle.csproj|c:\\dev\\avans_pokiebattle\\avans_pokiebattle\\avans_pokiebattle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{311033C6-5000-4174-A770-197A1868A515}|Avans_PokieBattle\\Avans_PokieBattle.csproj|solutionrelative:avans_pokiebattle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kwint\\Desktop\\Code\\Avans_PokieBattle\\Avans_PokieBattle\\Program.cs",
+              "DocumentMoniker": "C:\\dev\\Avans_PokieBattle\\Avans_PokieBattle\\Avans_PokieBattle\\Program.cs",
               "RelativeDocumentMoniker": "Avans_PokieBattle\\Program.cs",
-              "ToolTip": "C:\\Users\\kwint\\Desktop\\Code\\Avans_PokieBattle\\Avans_PokieBattle\\Program.cs",
+              "ToolTip": "C:\\dev\\Avans_PokieBattle\\Avans_PokieBattle\\Avans_PokieBattle\\Program.cs",
               "RelativeToolTip": "Avans_PokieBattle\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
